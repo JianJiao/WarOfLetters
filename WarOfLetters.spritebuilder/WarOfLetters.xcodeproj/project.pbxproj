@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		532A78041A96EAD9005D0634 /* Missile.m in Sources */ = {isa = PBXBuildFile; fileRef = 532A78031A96EAD9005D0634 /* Missile.m */; };
 		629FD11F1947593000B2EE4F /* GLKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 629FD11E1947593000B2EE4F /* GLKit.framework */; };
 		629FD1281947A81800B2EE4F /* WinPopup.m in Sources */ = {isa = PBXBuildFile; fileRef = 629FD1271947A81800B2EE4F /* WinPopup.m */; };
 		629FD12F1947AD1500B2EE4F /* CCActionFollow+CurrentOffset.m in Sources */ = {isa = PBXBuildFile; fileRef = 629FD12E1947AD1500B2EE4F /* CCActionFollow+CurrentOffset.m */; };
@@ -74,6 +75,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		532A78021A96EAD9005D0634 /* Missile.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Missile.h; path = Source/Missile.h; sourceTree = "<group>"; };
+		532A78031A96EAD9005D0634 /* Missile.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Missile.m; path = Source/Missile.m; sourceTree = "<group>"; };
 		629FD11E1947593000B2EE4F /* GLKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GLKit.framework; path = System/Library/Frameworks/GLKit.framework; sourceTree = SDKROOT; };
 		629FD1261947A81800B2EE4F /* WinPopup.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = WinPopup.h; path = Source/WinPopup.h; sourceTree = "<group>"; };
 		629FD1271947A81800B2EE4F /* WinPopup.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = WinPopup.m; path = Source/WinPopup.m; sourceTree = "<group>"; };
@@ -163,6 +166,8 @@
 				629FD12E1947AD1500B2EE4F /* CCActionFollow+CurrentOffset.m */,
 				629FD13B1947D07800B2EE4F /* StartScene.h */,
 				629FD13C1947D07800B2EE4F /* StartScene.m */,
+				532A78021A96EAD9005D0634 /* Missile.h */,
+				532A78031A96EAD9005D0634 /* Missile.m */,
 			);
 			name = Source;
 			sourceTree = "<group>";
@@ -374,6 +379,7 @@
 			files = (
 				629FD12F1947AD1500B2EE4F /* CCActionFollow+CurrentOffset.m in Sources */,
 				B737893F1807617C0076A88C /* AppDelegate.m in Sources */,
+				532A78041A96EAD9005D0634 /* Missile.m in Sources */,
 				629FD13D1947D07900B2EE4F /* StartScene.m in Sources */,
 				BCA9E15C1A89D30E00E4D509 /* Gameplay.m in Sources */,
 				B73789871807631A0076A88C /* main.m in Sources */,

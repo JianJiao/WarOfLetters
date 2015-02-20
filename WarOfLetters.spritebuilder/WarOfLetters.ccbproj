@@ -165,6 +165,8 @@
 		</dict>
 		<key>NewAssets</key>
 		<dict>
+			<key>isDirty</key>
+			<true/>
 			<key>isSmartSpriteSheet</key>
 			<true/>
 		</dict>

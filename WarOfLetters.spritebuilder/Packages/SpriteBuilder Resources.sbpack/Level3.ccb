@@ -3223,8 +3223,8 @@
 						<string>Position</string>
 						<key>value</key>
 						<array>
-							<real>39</real>
-							<real>366</real>
+							<real>56</real>
+							<real>376</real>
 							<integer>0</integer>
 							<integer>0</integer>
 							<integer>0</integer>
@@ -3242,6 +3242,14 @@
 							<false/>
 							<integer>0</integer>
 						</array>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>rotation</string>
+						<key>type</key>
+						<string>Degrees</string>
+						<key>value</key>
+						<real>0.27051648497581482</real>
 					</dict>
 					<dict>
 						<key>name</key>
@@ -3314,6 +3322,8 @@
 						<string>Star.ccb</string>
 					</dict>
 				</array>
+				<key>selected</key>
+				<true/>
 			</dict>
 			<dict>
 				<key>UUID</key>
@@ -3647,8 +3657,6 @@
 				</array>
 			</dict>
 		</array>
-		<key>selected</key>
-		<true/>
 	</dict>
 	<key>notes</key>
 	<array/>

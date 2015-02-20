@@ -7,7 +7,7 @@
 		<key>NewAssets/flagBlue.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{149, 87}, {35, 35}}</string>
+			<string>{{98, 1}, {35, 35}}</string>
 			<key>offset</key>
 			<string>{0, 0}</string>
 			<key>rotated</key>
@@ -20,7 +20,7 @@
 		<key>NewAssets/flagBlue2.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{186, 38}, {35, 35}}</string>
+			<string>{{75, 99}, {35, 35}}</string>
 			<key>offset</key>
 			<string>{0, 0}</string>
 			<key>rotated</key>
@@ -30,10 +30,23 @@
 			<key>sourceSize</key>
 			<string>{35, 35}</string>
 		</dict>
+		<key>NewAssets/missle.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {21, 59}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {21, 59}}</string>
+			<key>sourceSize</key>
+			<string>{21, 59}</string>
+		</dict>
 		<key>NewAssets/p2_walk01.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{112, 1}, {35, 47}}</string>
+			<string>{{61, 1}, {35, 47}}</string>
 			<key>offset</key>
 			<string>{0, 0}</string>
 			<key>rotated</key>
@@ -46,7 +59,7 @@
 		<key>NewAssets/p2_walk02.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{38, 50}, {35, 47}}</string>
+			<string>{{1, 160}, {35, 47}}</string>
 			<key>offset</key>
 			<string>{0, 0}</string>
 			<key>rotated</key>
@@ -59,7 +72,7 @@
 		<key>NewAssets/p2_walk03.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{149, 38}, {35, 47}}</string>
+			<string>{{75, 50}, {35, 47}}</string>
 			<key>offset</key>
 			<string>{0, 0}</string>
 			<key>rotated</key>
@@ -72,7 +85,7 @@
 		<key>NewAssets/p2_walk04.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{75, 50}, {35, 47}}</string>
+			<string>{{38, 50}, {35, 47}}</string>
 			<key>offset</key>
 			<string>{0, 0}</string>
 			<key>rotated</key>
@@ -85,7 +98,7 @@
 		<key>NewAssets/p2_walk05.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{38, 1}, {35, 47}}</string>
+			<string>{{1, 111}, {35, 47}}</string>
 			<key>offset</key>
 			<string>{0, 0}</string>
 			<key>rotated</key>
@@ -98,20 +111,7 @@
 		<key>NewAssets/p2_walk06.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{198, 1}, {35, 47}}</string>
-			<key>offset</key>
-			<string>{0, 0}</string>
-			<key>rotated</key>
-			<true/>
-			<key>sourceColorRect</key>
-			<string>{{0, 0}, {35, 47}}</string>
-			<key>sourceSize</key>
-			<string>{35, 47}</string>
-		</dict>
-		<key>NewAssets/p2_walk07.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{75, 1}, {35, 47}}</string>
+			<string>{{50, 197}, {35, 47}}</string>
 			<key>offset</key>
 			<string>{0, 0}</string>
 			<key>rotated</key>
@@ -121,10 +121,23 @@
 			<key>sourceSize</key>
 			<string>{35, 47}</string>
 		</dict>
+		<key>NewAssets/p2_walk07.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 209}, {35, 47}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {35, 47}}</string>
+			<key>sourceSize</key>
+			<string>{35, 47}</string>
+		</dict>
 		<key>NewAssets/p2_walk08.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1, 50}, {35, 47}}</string>
+			<string>{{24, 1}, {35, 47}}</string>
 			<key>offset</key>
 			<string>{0, 0}</string>
 			<key>rotated</key>
@@ -137,11 +150,11 @@
 		<key>NewAssets/p2_walk09.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{149, 1}, {35, 47}}</string>
+			<string>{{38, 148}, {35, 47}}</string>
 			<key>offset</key>
 			<string>{0, 0}</string>
 			<key>rotated</key>
-			<true/>
+			<false/>
 			<key>sourceColorRect</key>
 			<string>{{0, 0}, {35, 47}}</string>
 			<key>sourceSize</key>
@@ -150,7 +163,7 @@
 		<key>NewAssets/p2_walk10.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1, 1}, {35, 47}}</string>
+			<string>{{1, 62}, {35, 47}}</string>
 			<key>offset</key>
 			<string>{0, 0}</string>
 			<key>rotated</key>
@@ -163,7 +176,7 @@
 		<key>NewAssets/p2_walk11.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{112, 50}, {35, 47}}</string>
+			<string>{{38, 99}, {35, 47}}</string>
 			<key>offset</key>
 			<string>{0, 0}</string>
 			<key>rotated</key>
@@ -176,7 +189,7 @@
 		<key>NewAssets/star.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{186, 75}, {35, 35}}</string>
+			<string>{{75, 136}, {35, 35}}</string>
 			<key>offset</key>
 			<string>{0, 0}</string>
 			<key>rotated</key>
@@ -192,7 +205,7 @@
 		<key>format</key>
 		<integer>2</integer>
 		<key>size</key>
-		<string>{256, 128}</string>
+		<string>{256, 256}</string>
 		<key>textureFileName</key>
 		<string>NewAssets.png</string>
 	</dict>
