@@ -78,32 +78,32 @@
 					<real>0.0</real>
 				</array>
 				<array>
-					<real>5.81640625</real>
-					<real>56.808609008789062</real>
-				</array>
-				<array>
-					<real>13.38671875</real>
-					<real>56.988296508789062</real>
-				</array>
-				<array>
-					<real>21</real>
 					<real>0.0</real>
+					<real>21</real>
+				</array>
+				<array>
+					<real>59.6328125</real>
+					<real>14.003921508789062</real>
+				</array>
+				<array>
+					<real>59.6328125</real>
+					<real>8.9609527587890625</real>
 				</array>
 			</array>
 			<key>polygons</key>
 			<array>
 				<array>
 					<array>
-						<real>21</real>
+						<real>59.6328125</real>
+						<real>8.9609527587890625</real>
+					</array>
+					<array>
+						<real>59.6328125</real>
+						<real>14.003921508789062</real>
+					</array>
+					<array>
 						<real>0.0</real>
-					</array>
-					<array>
-						<real>13.38671875</real>
-						<real>56.988296508789062</real>
-					</array>
-					<array>
-						<real>5.81640625</real>
-						<real>56.808609008789062</real>
+						<real>21</real>
 					</array>
 					<array>
 						<real>0.0</real>
@@ -168,7 +168,7 @@
 				<key>value</key>
 				<array>
 					<string></string>
-					<string>NewAssets/missle.png</string>
+					<string>NewAssets/missleHori.png</string>
 				</array>
 			</dict>
 			<dict>

@@ -7,7 +7,7 @@
 		<key>NewAssets/flagBlue.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{797, 143}, {140, 140}}</string>
+			<string>{{845, 191}, {140, 140}}</string>
 			<key>offset</key>
 			<string>{0, 0}</string>
 			<key>rotated</key>
@@ -20,7 +20,7 @@
 		<key>NewAssets/flagBlue2.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{711, 285}, {140, 140}}</string>
+			<string>{{655, 333}, {140, 140}}</string>
 			<key>offset</key>
 			<string>{0, 0}</string>
 			<key>rotated</key>
@@ -43,137 +43,20 @@
 			<key>sourceSize</key>
 			<string>{84, 239}</string>
 		</dict>
-		<key>NewAssets/p2_walk01.png</key>
+		<key>NewAssets/missleHori.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{427, 191}, {140, 188}}</string>
-			<key>offset</key>
-			<string>{0, 0}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{0, 0}, {140, 188}}</string>
-			<key>sourceSize</key>
-			<string>{140, 188}</string>
-		</dict>
-		<key>NewAssets/p2_walk02.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{229, 1}, {140, 188}}</string>
-			<key>offset</key>
-			<string>{0, 0}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{0, 0}, {140, 188}}</string>
-			<key>sourceSize</key>
-			<string>{140, 188}</string>
-		</dict>
-		<key>NewAssets/p2_walk03.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{797, 1}, {140, 188}}</string>
+			<string>{{1, 242}, {239, 84}}</string>
 			<key>offset</key>
 			<string>{0, 0}</string>
 			<key>rotated</key>
 			<true/>
 			<key>sourceColorRect</key>
-			<string>{{0, 0}, {140, 188}}</string>
+			<string>{{0, 0}, {239, 84}}</string>
 			<key>sourceSize</key>
-			<string>{140, 188}</string>
+			<string>{239, 84}</string>
 		</dict>
-		<key>NewAssets/p2_walk04.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{371, 1}, {140, 188}}</string>
-			<key>offset</key>
-			<string>{0, 0}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{0, 0}, {140, 188}}</string>
-			<key>sourceSize</key>
-			<string>{140, 188}</string>
-		</dict>
-		<key>NewAssets/p2_walk05.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{143, 191}, {140, 188}}</string>
-			<key>offset</key>
-			<string>{0, 0}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{0, 0}, {140, 188}}</string>
-			<key>sourceSize</key>
-			<string>{140, 188}</string>
-		</dict>
-		<key>NewAssets/p2_walk06.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{655, 1}, {140, 188}}</string>
-			<key>offset</key>
-			<string>{0, 0}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{0, 0}, {140, 188}}</string>
-			<key>sourceSize</key>
-			<string>{140, 188}</string>
-		</dict>
-		<key>NewAssets/p2_walk07.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{285, 191}, {140, 188}}</string>
-			<key>offset</key>
-			<string>{0, 0}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{0, 0}, {140, 188}}</string>
-			<key>sourceSize</key>
-			<string>{140, 188}</string>
-		</dict>
-		<key>NewAssets/p2_walk08.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{87, 1}, {140, 188}}</string>
-			<key>offset</key>
-			<string>{0, 0}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{0, 0}, {140, 188}}</string>
-			<key>sourceSize</key>
-			<string>{140, 188}</string>
-		</dict>
-		<key>NewAssets/p2_walk09.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{569, 191}, {140, 188}}</string>
-			<key>offset</key>
-			<string>{0, 0}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{0, 0}, {140, 188}}</string>
-			<key>sourceSize</key>
-			<string>{140, 188}</string>
-		</dict>
-		<key>NewAssets/p2_walk10.png</key>
-		<dict>
-			<key>frame</key>
-			<string>{{1, 242}, {140, 188}}</string>
-			<key>offset</key>
-			<string>{0, 0}</string>
-			<key>rotated</key>
-			<false/>
-			<key>sourceColorRect</key>
-			<string>{{0, 0}, {140, 188}}</string>
-			<key>sourceSize</key>
-			<string>{140, 188}</string>
-		</dict>
-		<key>NewAssets/p2_walk11.png</key>
+		<key>NewAssets/p2_walk01.png</key>
 		<dict>
 			<key>frame</key>
 			<string>{{513, 1}, {140, 188}}</string>
@@ -186,10 +69,140 @@
 			<key>sourceSize</key>
 			<string>{140, 188}</string>
 		</dict>
+		<key>NewAssets/p2_walk02.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{229, 191}, {140, 188}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {140, 188}}</string>
+			<key>sourceSize</key>
+			<string>{140, 188}</string>
+		</dict>
+		<key>NewAssets/p2_walk03.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{655, 143}, {140, 188}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {140, 188}}</string>
+			<key>sourceSize</key>
+			<string>{140, 188}</string>
+		</dict>
+		<key>NewAssets/p2_walk04.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{371, 191}, {140, 188}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {140, 188}}</string>
+			<key>sourceSize</key>
+			<string>{140, 188}</string>
+		</dict>
+		<key>NewAssets/p2_walk05.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{229, 1}, {140, 188}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {140, 188}}</string>
+			<key>sourceSize</key>
+			<string>{140, 188}</string>
+		</dict>
+		<key>NewAssets/p2_walk06.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{845, 1}, {140, 188}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {140, 188}}</string>
+			<key>sourceSize</key>
+			<string>{140, 188}</string>
+		</dict>
+		<key>NewAssets/p2_walk07.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{371, 1}, {140, 188}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {140, 188}}</string>
+			<key>sourceSize</key>
+			<string>{140, 188}</string>
+		</dict>
+		<key>NewAssets/p2_walk08.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{87, 191}, {140, 188}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {140, 188}}</string>
+			<key>sourceSize</key>
+			<string>{140, 188}</string>
+		</dict>
+		<key>NewAssets/p2_walk09.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{655, 1}, {140, 188}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {140, 188}}</string>
+			<key>sourceSize</key>
+			<string>{140, 188}</string>
+		</dict>
+		<key>NewAssets/p2_walk10.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{87, 1}, {140, 188}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {140, 188}}</string>
+			<key>sourceSize</key>
+			<string>{140, 188}</string>
+		</dict>
+		<key>NewAssets/p2_walk11.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{513, 191}, {140, 188}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {140, 188}}</string>
+			<key>sourceSize</key>
+			<string>{140, 188}</string>
+		</dict>
 		<key>NewAssets/star.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{853, 285}, {140, 140}}</string>
+			<string>{{797, 333}, {140, 140}}</string>
 			<key>offset</key>
 			<string>{0, 0}</string>
 			<key>rotated</key>

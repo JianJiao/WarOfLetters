@@ -72,7 +72,9 @@ static int levelSpeed = 0;
 
 #pragma mark - Touch Handling
 
-- (void)touchBegan:(UITouch *)touch withEvent:(UIEvent *)event {
+- (void)touchBegan:(CCTouch *)touch withEvent:(CCTouchEvent *)event {
+    CGPoint toughLocation =  [touch locationInNode:self];
+    NSLog(@"%g",toughLocation.x);
   [_character.physicsBody.chipmunkObjects[0] eachArbiter:^(cpArbiter *arbiter) {
     if (!_jumped) {
       [_character.physicsBody applyImpulse:ccp(0, 1000)];
@@ -80,6 +82,23 @@ static int levelSpeed = 0;
       [self performSelector:@selector(resetJump) withObject:nil afterDelay:0.3f];
     }
   }];
+    
+    [self launchMissile];
+}
+
+- (void)launchMissile {
+    // loads the Penguin.ccb we have set up in Spritebuilder
+    CCNode* missile = [CCBReader load:@"Missile"];
+    // position the penguin at the bowl of the catapult
+    missile.position = ccpAdd(_character.position, ccp(50, 30));
+    
+    // add the penguin to the physicsNode of this scene (because it has physics enabled)
+    [_physicsNode addChild:missile];
+    
+    // manually create & apply a force to launch the penguin
+    CGPoint launchDirection = ccp(1, 0);
+    CGPoint force = ccpMult(launchDirection, 80000);
+    [missile.physicsBody applyForce:force];
 }
 
 #pragma mark - Player Movement
