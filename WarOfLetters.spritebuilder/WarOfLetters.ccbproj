@@ -165,8 +165,6 @@
 		</dict>
 		<key>NewAssets</key>
 		<dict>
-			<key>isDirty</key>
-			<true/>
 			<key>isSmartSpriteSheet</key>
 			<true/>
 		</dict>
@@ -244,6 +242,8 @@
 		<dict/>
 		<key>ccbResources</key>
 		<dict>
+			<key>isDirty</key>
+			<true/>
 			<key>previewFolderHidden</key>
 			<true/>
 		</dict>
@@ -323,6 +323,13 @@
 			<integer>2</integer>
 			<key>tabletScale</key>
 			<integer>1</integer>
+		</dict>
+		<key>kof</key>
+		<dict>
+			<key>isDirty</key>
+			<true/>
+			<key>isSmartSpriteSheet</key>
+			<true/>
 		</dict>
 	</dict>
 	<key>versionStr</key>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>kof/run1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{219, 98}, {69, 95}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {69, 95}}</string>
+			<key>sourceSize</key>
+			<string>{69, 95}</string>
+		</dict>
+		<key>kof/run2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 121}, {117, 108}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {117, 108}}</string>
+			<key>sourceSize</key>
+			<string>{117, 108}</string>
+		</dict>
+		<key>kof/run3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{111, 112}, {108, 106}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {108, 106}}</string>
+			<key>sourceSize</key>
+			<string>{108, 106}</string>
+		</dict>
+		<key>kof/run4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{200, 1}, {77, 95}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {77, 95}}</string>
+			<key>sourceSize</key>
+			<string>{77, 95}</string>
+		</dict>
+		<key>kof/run5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {118, 100}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {118, 100}}</string>
+			<key>sourceSize</key>
+			<string>{118, 100}</string>
+		</dict>
+		<key>kof/run6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{103, 1}, {109, 95}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {109, 95}}</string>
+			<key>sourceSize</key>
+			<string>{109, 95}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{512, 256}</string>
+		<key>textureFileName</key>
+		<string>kof.png</string>
+	</dict>
+</dict>
+</plist>
